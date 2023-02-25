@@ -82,7 +82,14 @@ namespace drama_simulator
 
                 ShowFileName(FileName);
             }
-
+            else if (e.newState == 9)
+            {
+                lblDuration.Text = "Loading new Video";
+            }
+            else if(e.newState == 10)
+            {
+                timer1.Start();
+            }
         }
 
         private void PlayList_SelectedIndexChanged(object sender, EventArgs e)
