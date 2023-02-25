@@ -1,0 +1,16 @@
+F:\github_file\drama_simulator\drama_simulator\bin\Debug\drama_simulator.exe.config
+F:\github_file\drama_simulator\drama_simulator\bin\Debug\drama_simulator.exe
+F:\github_file\drama_simulator\drama_simulator\bin\Debug\drama_simulator.pdb
+F:\github_file\drama_simulator\drama_simulator\bin\Debug\Interop.WMPLib.dll
+F:\github_file\drama_simulator\drama_simulator\bin\Debug\AxInterop.WMPLib.dll
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.csproj.AssemblyReference.cache
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.csproj.SuggestedBindingRedirects.cache
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\Interop.WMPLib.dll
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\AxInterop.WMPLib.dll
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.csproj.ResolveComReference.cache
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.Form1.resources
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.Properties.Resources.resources
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.csproj.GenerateResource.cache
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.csproj.CoreCompileInputs.cache
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.exe
+F:\github_file\drama_simulator\drama_simulator\obj\Debug\drama_simulator.pdb
